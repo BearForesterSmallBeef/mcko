@@ -1,7 +1,7 @@
 from common_functions import *
 
 
-input_path = "C:\\Users\\MLess\\PycharmProjects\\mcko\\task 1\\answer_task_2.txt"
+input_path = "C:\\Users\\MLess\\PycharmProjects\\mcko\\task 2\\answer_task_2.txt"
 
 data = get_space_ships_data(input_path)
 
